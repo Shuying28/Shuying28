@@ -4,7 +4,6 @@
 - 🎓 I am a final-year Software Engineering student at **University Malaya**.
 - 💻 I'm passionate about **Frontend Development**.
 - 🚀 Previously interned at **Ant** and **iFAST**.
-- 🌱 **Software Maintenance and Evolution** course focuses on the main concepts of software maintenance and provides experience in maintaining software projects. I hope to enhance my skills in managing evolving software systems and gain a deeper understanding of maintenance practices.
 
 ## My Goals
 - Contribute to open-source projects.
