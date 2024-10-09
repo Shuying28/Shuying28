@@ -47,6 +47,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ## Let's Connect
-📫 Feel free to reach out via email at [u2102835@siswa.um.edu.my](mailto:u2102835@siswa.um.edu.my) or connect with me here on GitHub.
+📫 Feel free to reach out via email at [ongshuyiing@gmail.com](mailto:ongshuyiing@gmail.com) or connect with me here on GitHub.
 
 Thanks for stopping by! 😊
