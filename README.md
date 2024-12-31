@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I am a final-year Software Engineering student at **University Malaya**.
-- 💻 I'm passionate about **Frontend Development**.
+- 💻 I'm passionate about **Software Development**.
 - 🚀 Previously interned at **Ant** and **iFAST**.
 
 ## My Goals
